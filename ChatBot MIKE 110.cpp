@@ -71,9 +71,9 @@ int main(){
 		else if(allDigits(s)){
 			cout<<s<<"是个好数字"<<endl;
 			decompose(s);
-    else if(s.find("再见")!=-1)
+		}	
+                else if(s.find("再见")!=-1)
 			cout<<"再见！期待下次的见面"<<endl;
-		}
 		else 
 			cout<<sorry[rand()%M]<<endl;	
 	}
