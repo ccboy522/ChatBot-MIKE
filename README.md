@@ -1,5 +1,5 @@
-MyGithub_ChatBot-MIKE
-=====================
+ChatBot-MIKE
+============
 # 我是一个能陪你说话，给你讲故事的机器人`MIKE`
 ## 最新版本：`1.2.0` [前往](https://github.com/ccboy522/MyGithub_ChatBot-MIKE/blob/master/ChatBot%20MIKE%20120.cpp)
 ###### *推荐使用`Chrome`浏览器*
